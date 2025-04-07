@@ -19,7 +19,7 @@ Aplicação Laravel para monitorar o preço de produtos em um site de varejo bra
 
 ## 🧠 Lógica de Scraping
 
-- **Site alvo:** Books to Scrape ((https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html))
+- **Site alvo:** Magazine Luiza (((https://www.magazineluiza.com.br/smartphone-samsung-galaxy-a06-128gb-4gb-ram-branco-67-cam-dupla-selfie-8mp/p/238657800/te/ga06/)))
 - **Seletor CSS do preço:** `.price_color`
 - **Comando Artisan:**  php artisan scrape:prices
 
