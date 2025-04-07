@@ -7,7 +7,7 @@ Aplicação Laravel para monitorar o preço de produtos em um site de varejo bra
 - PHP 8.3+
 - Laravel 11 LTS
 - MySQL/MariaDB
-- Goutte (Scraping)
+- Crawler \ Css Selector
 - Composer
 
 ## ⚙️ Funcionalidades
