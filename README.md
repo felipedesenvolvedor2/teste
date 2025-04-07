@@ -27,8 +27,7 @@ Aplicação Laravel para monitorar o preço de produtos em um site de varejo bra
 php artisan scrape:prices
 
 # Clone o projeto
-git clone https://github.com/SEU-USUARIO/monitor-de-precos.git
-cd monitor-de-precos
+git clone https://github.com/felipedesenvolvedor2/teste
 
 # Instale as dependências
 composer install
